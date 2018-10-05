@@ -1,0 +1,14 @@
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/obj/Debug/netcoreapp2.1/Leap.csprojAssemblyReference.cache
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/obj/Debug/netcoreapp2.1/Leap.csproj.CoreCompileInputs.cache
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/obj/Debug/netcoreapp2.1/Leap.AssemblyInfoInputs.cache
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/obj/Debug/netcoreapp2.1/Leap.AssemblyInfo.cs
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/Leap.deps.json
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/Leap.runtimeconfig.json
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/Leap.runtimeconfig.dev.json
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/Leap.dll
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/bin/Debug/netcoreapp2.1/Leap.pdb
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/obj/Debug/netcoreapp2.1/Leap.dll
+/Users/caiovictormartinscarvalho/Exercism/csharp/leap/obj/Debug/netcoreapp2.1/Leap.pdb
